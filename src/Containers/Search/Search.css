@@ -1,0 +1,27 @@
+
+.search{
+    display: inline;
+
+}
+.search input{
+    padding: 13px;
+  font-size: 17px;
+  border: none;
+  
+  width: 60%;
+  background: white;
+  margin: auto;
+ 
+  
+}
+
+.icon{
+   
+  width: 5%;
+  padding: 14px;
+  background: rgb(197, 195, 195);
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
+
+}
