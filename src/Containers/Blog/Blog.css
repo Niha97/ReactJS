@@ -1,0 +1,41 @@
+/* Articles container */
+.body{
+	position: absolute;
+	width: 100%;
+ }
+
+.topbackground{
+    background: linear-gradient(335deg, #2c3e50, #436d92, #fd746c, #fd726ba4);
+    width: 100%;
+    height: 30%;
+    position: absolute;
+    z-index: -1;
+    clip-path: polygon(0 0,100% 0,100% 70%,0 100%);
+    box-sizing: border-box;
+}
+.articles{
+	width:85%;
+	margin: auto;
+	margin-top:70px;
+	overflow:auto;	
+	
+}
+
+
+.newArticle{
+	width: 50%;
+	margin:auto;
+	border: 1px solid #bbb;
+	margin-bottom: 30px;
+}
+
+
+.search{
+	width:75%;
+	margin:auto;
+	margin-top:55px;
+	text-align: center;
+
+}
+
+
